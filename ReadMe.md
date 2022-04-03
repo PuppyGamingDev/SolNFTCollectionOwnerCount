@@ -1,4 +1,4 @@
-# NFT Collection Easy Owner Counter
+# Solana NFT Collection Owners Count
 
 ## Description
 This is a super simple Node.js script that will take a collections hashlist and work through the owner of each of the NFTs (1 every second to avoid rate limiting) and the finally work out how many each owner holds and export it into a handy file.
